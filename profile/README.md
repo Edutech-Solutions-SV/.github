@@ -36,10 +36,6 @@ Actualmente brindamos nuestros servicios a instituciones del sector **privado** 
 
 Ser referentes en innovación tecnológica educativa en Centroamérica, ofreciendo productos robustos, confiables y adaptables a la realidad educativa de cada país.
 
-## 📞 Contáctanos
-
-- 📧 **Correo:** contacto@edutechsolutions.com  
-- 🌐 **Sitio web:** [www.edutechsolutions.com](http://www.edutechsolutions.com)  
 - 📍 **Ubicación:** San Salvador, El Salvador
 
 ---
